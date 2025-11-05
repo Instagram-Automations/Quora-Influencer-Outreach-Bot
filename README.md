@@ -125,3 +125,15 @@ Yes, proxy rotation, random delays, and human-like touch simulation reduce detec
 - **Scalability:** Supports 300–1000 Android devices in parallel clusters.  
 - **Resource Efficiency:** Lightweight automation footprint optimized for cloud emulation.  
 - **Error Handling:** Built-in retry logic, activity logging, and crash recovery ensure continuity.  
+
+---
+
+<p align="center">
+<a href="https://calendar.app.google/GyobA324GxBqe6en6" target="_blank">
+  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
+</a>
+
+  <a href="https://www.youtube.com/@bitbash-demos/videos" target="_blank">
+    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
+  </a>
+</p>
